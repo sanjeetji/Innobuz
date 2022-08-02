@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Innobuz</string>
+    <string name="dialogTitle">Delete Post</string>
+    <string name="dialogMessage">Delete This Post</string>
+</resources>
